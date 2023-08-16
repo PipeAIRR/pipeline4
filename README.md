@@ -40,8 +40,8 @@ Sequence processing steps:
 
 Primers used:
 
-* [BIOMED2_SPRIMERS](add link to git)
+* [BIOMED2_SPRIMERS](https://github.com/PipeAIRR/pipeline4/blob/master/primers/S_primer.fasta)
 
-* [BIOMED2_CPRIMERS2](add link to git)
+* [BIOMED2_CPRIMERS2](https://github.com/PipeAIRR/pipeline4/blob/master/primers/C_primers_file.fasta)
 
-* [BIOMED2_VHFR1](add link to git)
+* [BIOMED2_VHFR1](https://github.com/PipeAIRR/pipeline4/blob/master/primers/V_primers_file.fasta)
